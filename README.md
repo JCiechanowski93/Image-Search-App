@@ -1,1 +1,5 @@
-"# Image-Search-App" 
+# Image-Search-App
+
+## General Info
+
+## Technologies
