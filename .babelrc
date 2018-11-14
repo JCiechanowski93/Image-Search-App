@@ -1,0 +1,9 @@
+{
+    "presets": ["es2015", "stage-0"],
+    "plugins": [
+        ["wildcard", {
+            "exts": ["js", "es6", "es", "jsx", "javascript", "mp3", "jpg"],
+            "useCamelCase": false
+        }]
+    ]
+}
