@@ -13,3 +13,12 @@ I did it to better understand React.
 - Webpack
 - Grid CSS
 - Semantic UI
+
+## Setup
+
+To run the project:
+```
+ 1. npm i
+ 2. $ npm run start
+ 3. Open  local host http://localhost:8080
+```
