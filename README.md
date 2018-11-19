@@ -1,11 +1,11 @@
 # Image Search App
 
 ## Table of contents
-- [General Info](#General-info)
+- [General info](#General-info)
 - [Technologies](#Technologies)
 - [Setup](#Setup)
 
-## General Info
+## General info
 
 Simple web application whose purpose is to search for images that are downloaded from Unsplash Image API.
 
